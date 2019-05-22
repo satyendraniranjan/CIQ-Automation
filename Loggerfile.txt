@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-01-18T00:48:12</date>
+  <millis>1547752692442</millis>
+  <sequence>0</sequence>
+  <logger>awt.file.lincense.com.Ciqframe</logger>
+  <level>CONFIG</level>
+  <class>awt.file.lincense.com.Ciqframe$1</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2019-01-18T00:48:13</date>
+  <millis>1547752693533</millis>
+  <sequence>1</sequence>
+  <logger>awt.file.lincense.com.Ciqframe</logger>
+  <level>INFO</level>
+  <class>awt.file.lincense.com.Test</class>
+  <method>test</method>
+  <thread>15</thread>
+  <message>Inside of test</message>
+</record>
+<record>
+  <date>2019-01-18T00:48:16</date>
+  <millis>1547752696820</millis>
+  <sequence>2</sequence>
+  <logger>awt.file.lincense.com.Ciqframe</logger>
+  <level>INFO</level>
+  <class>awt.file.lincense.com.Test</class>
+  <method>test</method>
+  <thread>15</thread>
+  <message>Inside of test</message>
+</record>
+<record>
+  <date>2019-01-18T00:48:16</date>
+  <millis>1547752696877</millis>
+  <sequence>3</sequence>
+  <logger>awt.file.lincense.com.Ciqframe</logger>
+  <level>SEVERE</level>
+  <class>awt.file.lincense.com.FileName</class>
+  <method>fileName</method>
+  <thread>15</thread>
+  <message>2.5 TDD CDU30</message>
+  <param>CB73XC047</param>
+</record>
